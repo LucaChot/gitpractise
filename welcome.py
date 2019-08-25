@@ -1,2 +1,2 @@
-for i in range(1,1000):
+while True:
     print('Hello World')
