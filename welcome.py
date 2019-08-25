@@ -1,2 +1,2 @@
-for i in range91,1000):
+for i in range(1,1000):
     print('Hello World')
